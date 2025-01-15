@@ -81,3 +81,29 @@ erating actionable insights to optimize engagement metrics, including open rates
  
  • Git Deployment for Version Control: Deployed the updated version of the language module in production
  and client servers using Git, ensuring smooth operations and version control.
+ 
+  PROJECTS
+ Digital Marketing Campaign Aanlysis (Power BI):
+ 
+ • Designed and developed an interactive dashboard using Power BI to analyze digital marketing campaigns across
+ channels (email, PPC, SEO, social media).
+ 
+ • Assessed campaign types (awareness, consideration, conversion, retention), visualizing metrics such as email
+ opens, clicks, and conversions segmented by gender and channel.
+ 
+ • Provided actionable insights to optimize engagement and conversion rates, leading to improved marketing strate
+gies.
+
+Customer Conversion Prediction (Machine Learning):
+
+ • Built and evaluated a Random Forest classifier to predict customer conversions with an accuracy of 88% using
+ real-world marketing data.
+ 
+ • Conducted data preprocessing (handling missing values, encoding categorical variables, scaling features) and
+ exploratory data analysis to identify key conversion factors.
+ 
+ • Created new features (e.g., clicks per open, ad spend per conversion) and visualized relationships (e.g., click
+through rate vs. ad spend) to enhance campaign insights.
+
+ • Identified higher conversion rates for females and provided recommendations to improve audience targeting for
+ increased conversions
