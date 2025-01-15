@@ -1,4 +1,5 @@
-# Nizam_Bio
+# Nizam
+# Profile Summary
 I'm a dedicated Data Specialist and Growth Marketing Expert with a track record of delivering results-driven campaigns. My passion lies at the intersection of data and marketing, where I leverage my expertise in the following key areas:
 
 📑 Data Analysis: I have a strong analytical mindset and a knack for turning raw data into actionable insights. Whether it's optimizing email open rates or fine-tuning segmentation strategies, I thrive on data-driven decision-making.
