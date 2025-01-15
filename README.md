@@ -66,3 +66,18 @@ gies, utilizing Google Sheets for strategy tracking.
  
  • CRM Integration(HubSpot & Salesforce): on email templates and domains using Google Analytics, gen
 erating actionable insights to optimize engagement metrics, including open rates and click-through rates.
+
+ Project Trainee
+ 
+ Apr 2021- Oct 2021
+ 
+ Ramco Systems
+ 
+ • MySQL Data Generation: Utilized MySQL to generate the dataset for language module, ensuring accurate
+ and comprehensive data representation.
+ 
+ • Automated Excel Tool Usage: Employed an automated Excel tool to modify the language module as per
+ clients’ requirements, enhancing customization and adaptability.
+ 
+ • Git Deployment for Version Control: Deployed the updated version of the language module in production
+ and client servers using Git, ensuring smooth operations and version control.
