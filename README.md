@@ -37,6 +37,7 @@ Technical Skills :
  • Time management
  
  • Team collaboratio
+ 
   EXPERIENCE
   
  Sr.Growth Data Specialist
