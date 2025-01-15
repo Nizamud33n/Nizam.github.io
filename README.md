@@ -37,3 +37,31 @@ Technical Skills :
  • Time management
  
  • Team collaboratio
+  EXPERIENCE
+  
+ Sr.Growth Data Specialist
+ Turing
+ 
+ Nov 2021- Present
+ 
+ • Email Metrics Dashboard and Reporting: Developed comprehensive email metrics dashboards in Looker
+ Pro and Power BI, to facilitate detailed campaign performance analysis through data extraction, manipulation,
+ and visualization.
+ 
+ • Conducted A/B test: on email templates and domains using Google Analytics, generating actionable insights
+ to optimize engagement metrics, including open rates and click-through rates.
+ 
+ • Campaign Optimization: Leveraged data-driven insights to optimize email marketing campaigns, using SQL
+ for data manipulation and Python to automate operations for strategic planning.
+ 
+ • Campaign Management: Managedend-to-endcampaignoperations, overseeing dashboards, throughput plan
+ning, and analysis with Looker Pro,Power BI and Google Sheets for project tracking.
+
+ • Strategy Development: As Demand Generation Analysts to develop and streamline email marketing strate
+gies, utilizing Google Sheets for strategy tracking.
+
+ • Marketing Automation: Automated email sequences and drip campaigns to improve lead nurturing and
+ segmentation, resulting in an increase in engagements.
+ 
+ • CRM Integration(HubSpot & Salesforce): on email templates and domains using Google Analytics, gen
+erating actionable insights to optimize engagement metrics, including open rates and click-through rates.
