@@ -106,4 +106,16 @@ Customer Conversion Prediction (Machine Learning):
 through rate vs. ad spend) to enhance campaign insights.
 
  • Identified higher conversion rates for females and provided recommendations to improve audience targeting for
- increased conversions
+ increased conversions.
+ 
+  EDUCATION & CERTIFICATION
+  
+ B.Tech. Mechanical Engineering, SRM Institute of Science and Technology
+ 
+ Certification:
+ 
+ • DataScience & AI- Boston Institute of Analytics
+ 
+ • Email Marketing- HubSpot Academy
+ 
+ • HubSpot Marketing Hub Software- HubSpot Academy
