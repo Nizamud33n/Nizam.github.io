@@ -13,15 +13,27 @@ I'm a dedicated Data Specialist and Growth Marketing Expert with a track record 
 🤖Marketing Automation: I'm proficient in marketing automation platforms, streamlining workflows, and enhancing customer journeys to drive engagement and conversions.
 
 Skills
+
 Technical Skills :
+
  • Data Analysis and Visualization: MS Excel, Google Analytics, Power BI, Google Sheets, Looker Pro
+ 
  • Programming Languages: Python
+ 
  • Database Manipulation: MySQL, PostgreSQL
+ 
  • CRM Marketing Tools: HubSpot, Salesforce, Interseller, Outreach
+ 
  • Libraries: Scikit-learn, XG Boost, Numpy, Pandas
+ 
  Soft Skills :
+ 
  • Communication
+ 
  • Problem-solving
+ 
  • Strategic thinking
+ 
  • Time management
+ 
  • Team collaboratio
